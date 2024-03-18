@@ -1,8 +1,37 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# About this repo
+
+This is a weather app made by using the free [weatherapi](https://www.weatherapi.com/). The app is a little broken for now due to the api being inconsistent with its values, I will migrate the api to the [openweathermap's](https://openweathermap.org/) api later on.
+
+## Tech used here
+
+Everything that has been used here are web technologies
+
+- "react-native": the main library for creating the app
+- "react": the library for creating the UI
+- "nativewind": for styling using tailwind CSS (tailwind for mobile)
+- "axios": for fetching data and sending requests
+- "react-native-heroicons": for the icons
+- "react-native-progress": for the loader animation
+- "react-native-svg": for supporting svg's maybe
+- And some extra dependencies
+
+  - "react-native-safe-area-context"
+  - "react-native-screens"
+  - "lodash"
+  - "@react-navigation/native"
+  - "@react-navigation/native-stack"
+
+- here are some screenshots
+  - first image ![first image](./assets/dibru.jpg)
+  - second image ![second image](./assets/Screenshot_2024-03-18-13-02-26-88_f50e51fec5c82764e07d3174ad7842ec.jpg)
+  - loader ![loader](./assets/loader.jpg)
+  - inconsistency example ![inconsistency](./assets/inconsistency.jpg)
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
