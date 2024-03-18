@@ -22,10 +22,13 @@ Everything that has been used here are web technologies
   - "@react-navigation/native-stack"
 
 - here are some screenshots
-  - first image ![first image](./assets/dibru.jpg)
-  - second image ![second image](./assets/Screenshot_2024-03-18-13-02-26-88_f50e51fec5c82764e07d3174ad7842ec.jpg)
-  - loader ![loader](./assets/loader.jpg)
-  - inconsistency example ![inconsistency](./assets/inconsistency.jpg)
+
+  - The first two pictures show somewhat okay rendering and the third image is the loader image and the last one shows the inconsistency that happens
+
+  <img src="./assets/dibru.jpg" width="250" height="500">
+  <img src="./assets/Screenshot_2024-03-18-13-02-26-88_f50e51fec5c82764e07d3174ad7842ec.jpg" width="250" height="500">
+  <img src="./assets/loader.jpg" width="250" height="500">
+  <img src="./assets/inconsistency.jpg" width="250" height="500">
 
 # Getting Started
 
